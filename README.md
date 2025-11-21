@@ -6,6 +6,5 @@ This project is trained/tested on publicly available datasets from Kaggle:
 
 - **CNN/DailyMail Dataset**  
   Link: https://www.kaggle.com/datasets/gowrishankarp/newspaper-text-summarization-cnn-dailymail
-  (or jo bhi exact dataset use kiya ho – full link daal dena)
 
 > All datasets are used only for educational/research purposes under their respective licenses.
